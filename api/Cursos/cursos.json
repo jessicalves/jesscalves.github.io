@@ -1,0 +1,90 @@
+[
+    {
+      "cod_curso": 1,
+      "nome_curso": "Especialista em Automação, Robótica e Controlo Ind",
+      "horario": "Laboral (08:30 -16:30)",
+      "local": "Sede - Lisboa",
+      "tipo": "CET - Curso Especialização Tecnológica",
+      "area": "Eletrônica e Automação",
+      "modalidade": "Online",
+      "qtd_horas": 1560,
+      "descricao": "Instalar. programar e colocar em funcionamento equipamentos e sistemas de automação. instrumentação. robótica e controlo industrial.- Efectuar a gestão da manutenção de equipamentos e sistemas de automação. instrumentação. robótica e controlo industrial.- Colaborar no planeamento. coordenação e controlo da produção.- Dar formação a outros colaboradores da empresa. nomeadamente aos utilizadores dos equipamentos. aos técnicos de eletrónica e aos técnicos de manutenção.- Preencher documentação técnica e elaborar relatórios técnicos relativos à atividade desenvolvida."
+    },
+    {
+      "cod_curso": 2,
+      "nome_curso": "Especialista em Gestão de Redes e Sistemas Informáticos",
+      "horario": "Pós-Laboral (19h - 23h)",
+      "local": "Dpo - Porto",
+      "tipo": "CET - Curso Especialização Tecnológica",
+      "area": "Ciências Informáticas",
+      "modalidade": "Presencial",
+      "qtd_horas": 1375,
+      "descricao": "O/A Técnico/a Especialista em Gestão de Redes e Sistemas Informáticos é o/a profissional que efectua, de forma autónoma ou sob orientação, a instalação e manutenção de redes e sistemas informáticos de apoio às diferentes áreas de gestão da organização, podendo assegurar a gestão e o funcionamento dos equipamentos informáticos e respectivas redes de comunicações.\r\n\r\nPlanear e projectar redes de comunicação, de acordo com as necessidades da organização e reflectindo preocupações com a ergonomia e com a segurança.\r\nInstalar e configurar redes de comunicação, ao nível da infra-estrutura de cablagem, do sistema operativo, do equipamento e dos serviços, utilizando os procedimentos adequados, com vista a assegurar o correcto funcionamento das mesmas.\r\nGerir e manter redes de comunicação, sistemas, serviços e servidores, de forma segura, eficiente e fiável, com o objectivo de optimizar o funcionamento dos mesmos.\r\nParticipar no projecto de um ambiente de trabalho seguro para redes empresariais.\r\nPlanear, instalar, configurar, administrar e dar suporte a um sistema de bases de dados estruturadas.\r\nInstalar, configurar e administrar plataformas de correio electrónico (e-mail) e serviços Web."
+    },
+    {
+      "cod_curso": 27,
+      "nome_curso": "Técnicas de Desenvolvimento e aplicação de folhas ",
+      "horario": "Pós-Laboral (19h - 23h)",
+      "local": "CINEL ONLINE",
+      "tipo": "MOD-Formação Modular Certificada (Empregados)",
+      "area": "Ciências Informáticas",
+      "modalidade": "Online",
+      "qtd_horas": 75,
+      "descricao": "Elaborar, editar e imprimir documentos.\r\nIntroduzir elementos gráficos em documentos e elaborar e editar documentos longos.\r\nConstruir, editar e imprimir folhas de cálculo.\r\nUtilizar fórmulas, funções, gráficos e desenhos em folhas de cálculo."
+    },
+    {
+      "cod_curso": 28,
+      "nome_curso": "Técnico/a Especialista em Desenvolvimento de Produtos Multimédia",
+      "horario": "Pós-Laboral (19h - 23h)",
+      "local": "Dpo - Porto",
+      "tipo": "CET - Curso Especialização Tecnológica",
+      "area": "Audiovisuais e produção dos media",
+      "modalidade": "Presencial",
+      "qtd_horas": 1500,
+      "descricao": "Proceder à concepção técnica e ao planeamento de projectos de sistemas e produtos multimédia com vista ao desenvolvimento de soluções de informação e comunicação.\r\nCoordenar processos de produção multimédia (recursos humanos e técnicos), garantindo padrões de qualidade dos produtos finais.\r\nProgramar aplicações multimédia utilizando ferramentas de autor.\r\nDesenvolver componentes multimédia utilizando as ferramentas e tecnologias standard.\r\nConceber guiões e storyboards para produtos audiovisuais e multimédia.\r\nConceber e produzir efeitos visuais em áudio e vídeo.\r\nCriar imagens gráficas para projectos de design gráfico.\r\nPlanificar, desenhar e desenvolver sítios Web.\r\nAplicar estratégias de marketing na construção de sítios Web.\r\nModelar e animar objectos 3D.\r\nConceber, produzir e desenvolver projectos de animação multimédia 2D e 3D.\r\nConceber e produzir interfaces para sistemas de e-learning, comércio electrónico, portais empresariais, intranets e extranets.\r\nAplicar estratégias de optimização do design de interfaces na construção de suportes multimédia.\r\nGerir o desenvolvimento de produtos multimédia (recursos humanos e técnicos) garantindo os padrões de qualidade do produto final."
+    },
+    {
+      "cod_curso": 30,
+      "nome_curso": "Análise de Dados e Dashboards - Microsoft Power BI",
+      "horario": "Pós-Laboral (19h - 23h)",
+      "local": "CINEL ONLINE",
+      "tipo": "FEC-Formação Extra CNQ\r\n",
+      "area": "Ciências Informáticas",
+      "modalidade": "Online",
+      "qtd_horas": 70,
+      "descricao": "O Microsoft Power BI permite transformar os dados da sua empresa em visuailizações sofisticadas que facilitam novas maneiras de pensar e organizar os dados, permitindo assim uma melhor análise da sua informação.\r\nColmatar a lacuna entre os dados e as decisões com o Power BI.\r\nCriar visualizações de dados avançadas e interativas a partir de várias origens de dados e partilhar informações comerciais importantes que promovem o sucesso."
+    },
+    {
+      "cod_curso": 31,
+      "nome_curso": "Linguagem de Programação SQL - iniciação",
+      "horario": "Pós-Laboral (19h - 23h)",
+      "local": "CINEL ONLINE",
+      "tipo": "FEC-Formação Extra CNQ\r\n",
+      "area": "Ciências Informáticas",
+      "modalidade": "Online",
+      "qtd_horas": 60,
+      "descricao": "Consultar dados armazenados dentro da base de dados usando consultas simples, funções, subconsultas e junções.\r\nCriar tabelas, inserir, alterar e apagar dados."
+    },
+    {
+      "cod_curso": 32,
+      "nome_curso": "Especialista em Tecnologias e Programação de Sistemas",
+      "horario": "Pós-Laboral (19h - 23h)",
+      "local": "Dpo - Porto",
+      "tipo": "CET - Curso Especialização Tecnológica",
+      "area": "Ciências Informáticas",
+      "modalidade": "Presencial",
+      "qtd_horas": 1400,
+      "descricao": "Analisar, conceber, planear e desenvolver soluções de Tecnologias e Programação de Sistemas de Informação e/ou soluções\r\nde integração de sistemas existentes.\r\n\r\n- Construir aplicações informáticas de gestão de sistemas de informação.\r\n- Conceber e manusear uma base de dados tendo em vista a resolução de problemas de negócio ou outros e de suporte aos respetivos sistemas de informação.\r\n- Implementar sistemas de informação baseados em tecnologias Web, através da utilização de sistemas de computação clássicos e de dispositivos móveis, designadamente telemóveis e PDA.\r\n- Configurar e gerir aplicações de sistemas de informação nas organizações (ERP, CRM, logística, etc).\r\n- Conceber arquiteturas de integração de sistemas.\r\n- Seleccionar as vias de solução tecnológica mais adequadas e as ferramentas a que poderão recorrer, em cada situação concreta."
+    },
+    {
+      "cod_curso": 33,
+      "nome_curso": "IOT - Internet of Things",
+      "horario": "Pós-Laboral (19h - 23h)",
+      "local": "CINEL ONLINE",
+      "tipo": "FEC-Formação Extra CNQ\r\n",
+      "area": "Eletrônica e Automação",
+      "modalidade": "Online",
+      "qtd_horas": 50,
+      "descricao": "Distinguir sensores, identificar constituição interna e estrutura típica de sitema micorcontrolado. Caracterizar memórias internas e externas. Descrever funcionamento das interrupções no microcontrolador. Realizar um sistema automatizado utilizando sensores e transdutores.  E aplicar as principais instruções do microcontrolador."
+    }
+  ]
